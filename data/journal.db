@@ -1,0 +1,1 @@
+{"_id":"4cqjioZD9layUhE6","name":"Common Expressions","permission":{"default":0,"uaXE4IsG9kFySPtJ":3},"folder":"","sort":100001,"flags":{},"content":"<p>Attribute Lookup:</p>\n<pre>$&lt;1;%[@{attrib},0:0,1:1,3:2,6:3,10:4,15:5,21:6,28:7,36:8,45:9]&gt; $1d6</pre>"}

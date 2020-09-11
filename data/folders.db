@@ -1,0 +1,60 @@
+{"name":"Other","type":"Item","sort":3200000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"023DtboKksVlUK90"}
+{"name":"Origins","type":"Item","sort":3100000,"flags":{},"parent":"FjTMdP6YtB10TPOG","color":"","_id":"0ESfqRTPc2P9aMSw"}
+{"name":"_PROPERTIES","type":"Item","sort":500000,"flags":{},"parent":"UFDmVefYOEwhb8oi","color":"","_id":"1ZZ7DR2yEMjHhiDO"}
+{"_id":"3FvOYGdkokK7xsVh","name":"SKILLS","type":"Item","sort":1000000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"3LutUsqAesjuYgBB","name":"Miscellaneous Hobby","type":"Item","sort":1850000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"name":"Human","type":"Item","sort":2800000,"flags":{},"parent":"YwSGye6cRygZpELp","color":"","_id":"3W8VxlQkqQgzYZZU"}
+{"name":"Lore","type":"Item","sort":2100000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"4A4fCSQ4Fq71gICx"}
+{"name":"_PANELS","type":"Item","sort":400000,"flags":{},"parent":"UFDmVefYOEwhb8oi","color":"","_id":"5ombL28ImnYNltlV"}
+{"name":"DESCRIPTOR","type":"Item","sort":1100000,"flags":{},"parent":"1ZZ7DR2yEMjHhiDO","color":"","_id":"6p144ewuepnRONox"}
+{"_id":"8eCpYIhUiUP8qsWu","name":"Developmental","type":"Item","sort":1787500,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"_id":"9GwOQd6KwqcvwraE","name":"ARMOR","type":"Item","sort":825000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"name":"Outdoor","type":"Item","sort":2200000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"9dDsDYJUI4nIXW6z"}
+{"_id":"9siDi3TDS4Ljohy0","name":"MAGICAL IMPLEMENTS","type":"Item","sort":887500,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"AvJJjeftyvP1kdjy","name":"RACES","type":"Item","sort":900000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"name":"Vehicle","type":"Item","sort":2600000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"CL8BDJr3tgGC7j6m"}
+{"_id":"Cra5BxkRF6YDcIa4","name":"_COMPENDIUM","type":"Item","sort":100000,"flags":{},"parent":null,"color":""}
+{"_id":"FjTMdP6YtB10TPOG","name":"CAREERS","type":"Item","sort":850000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"HSbFHKtHLV5SEyGV","name":"CONDITIONS","type":"Item","sort":862500,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"name":"Weapons","type":"Item","sort":2700000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"I7v24ojPrsRMFKzz"}
+{"_id":"MYOp23On5xdrtvj6","name":"Defensive","type":"Item","sort":1781250,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"name":"Origins","type":"Item","sort":3000000,"flags":{},"parent":"YwSGye6cRygZpELp","color":"","_id":"PDHNXm9hGX1G4cGq"}
+{"_id":"RV2cAimel0fmwssR","name":"ATTRIBUTE BONUSES","type":"Item","sort":800000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"UFDmVefYOEwhb8oi","name":"_TEMPLATE","type":"Item","sort":200000,"flags":{},"parent":null,"color":""}
+{"_id":"W8p4ydVfJWOMXuUB","name":"Crafting","type":"Item","sort":1775000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"_id":"XS2uwJPKOIC7VcXx","name":"WEAPONS","type":"Item","sort":1450000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"name":"PC","type":"Actor","sort":200000,"flags":{},"parent":"ip0ZsQz4OOvM9W4O","color":"","_id":"XbwAZUqKbHbiCqxl"}
+{"name":"Grand Elf","type":"Item","sort":2900000,"flags":{},"parent":"YwSGye6cRygZpELp","color":"","_id":"YSLAPbnikPa9DMaf"}
+{"_id":"YwSGye6cRygZpELp","name":"EXPLOITS","type":"Item","sort":875000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"name":"Magical","type":"Item","sort":1800000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"ZJWmDZLcXibBlYmn"}
+{"name":"ATTACKS","type":"Item","sort":1700000,"flags":{},"parent":"1ZZ7DR2yEMjHhiDO","color":"","_id":"ZSH4ZunpmRggSlQL"}
+{"name":"Performance","type":"Item","sort":2300000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"abUOQD5z8undioxJ"}
+{"_id":"cOUinusUSgM2Jnb0","name":"Artistic","type":"Item","sort":1700000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"name":"TABLES","type":"Item","sort":1300000,"flags":{},"parent":"1ZZ7DR2yEMjHhiDO","color":"","_id":"cRAgMjSpFYk7XabW"}
+{"name":"_TABS","type":"Item","sort":300000,"flags":{},"parent":"UFDmVefYOEwhb8oi","color":"","_id":"cafn9I0Y6btZZ5c4"}
+{"name":"Subterfuge","type":"Item","sort":2500000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"gsVa562lMjIz3aom"}
+{"_id":"ip0ZsQz4OOvM9W4O","name":"_CONFIG","type":"Actor","sort":100000,"flags":{},"parent":null,"color":""}
+{"name":"DERIVED STATISTICS","type":"Item","sort":1200000,"flags":{},"parent":"1ZZ7DR2yEMjHhiDO","color":"","_id":"jq8KZPPhxrvRdh5b"}
+{"_id":"koa9m5ZQdRPEBtF6","name":"SECRETS","type":"Item","sort":950000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"name":"GROUP PROPERTIES","type":"Item","sort":800000,"flags":{},"parent":"vh8QWf2fNA79Oe7p","color":"","_id":"ndRuTQpEMERsa77z"}
+{"name":"Musical","type":"Item","sort":1900000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"nqfgYooGxuKbitJm"}
+{"_id":"on3HmSpQFPMAnvT4","name":"EQUIPMENT","type":"Item","sort":868750,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"pBJqWgmEaMaNyKdM","name":"GROUPS","type":"Item","sort":100000,"flags":{},"parent":"vh8QWf2fNA79Oe7p","color":""}
+{"name":"DEFENSES","type":"Item","sort":1600000,"flags":{},"parent":"1ZZ7DR2yEMjHhiDO","color":"","_id":"qdKAktZb5CpgJpo8"}
+{"_id":"t54NkgeGE3VItcTb","name":"Gaming","type":"Item","sort":1793750,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"_id":"u5rVVgrxsg18OHbM","name":"Combat","type":"Item","sort":1750000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"name":"ATTRIBUTES","type":"Item","sort":900000,"flags":{},"parent":"1ZZ7DR2yEMjHhiDO","color":"","_id":"uQasWCTABPdRTRIr"}
+{"name":"_CONFIG","type":"Item","sort":600000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":"","_id":"vh8QWf2fNA79Oe7p"}
+{"_id":"wnUHvMiC36JWPWTU","name":"Armor","type":"Item","sort":1600000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":""}
+{"name":"Social","type":"Item","sort":2400000,"flags":{},"parent":"3FvOYGdkokK7xsVh","color":"","_id":"yMyKKiP8aRAjBvK6"}
+{"_id":"vh8QWf2fNA79Oe7p","name":"_CONFIG","type":"Item","sort":100000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"RV2cAimel0fmwssR","name":"ATTRIBUTE BONUSES","type":"Item","sort":200000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"9GwOQd6KwqcvwraE","name":"ARMOR","type":"Item","sort":300000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"FjTMdP6YtB10TPOG","name":"CAREERS","type":"Item","sort":400000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"HSbFHKtHLV5SEyGV","name":"CONDITIONS","type":"Item","sort":500000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"on3HmSpQFPMAnvT4","name":"EQUIPMENT","type":"Item","sort":600000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"YwSGye6cRygZpELp","name":"EXPLOITS","type":"Item","sort":700000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"9siDi3TDS4Ljohy0","name":"MAGICAL IMPLEMENTS","type":"Item","sort":800000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"koa9m5ZQdRPEBtF6","name":"SECRETS","type":"Item","sort":1100000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"XS2uwJPKOIC7VcXx","name":"WEAPONS","type":"Item","sort":1200000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
+{"_id":"koa9m5ZQdRPEBtF6","name":"SECRETS","type":"Item","sort":950000,"flags":{},"parent":"Cra5BxkRF6YDcIa4","color":""}
